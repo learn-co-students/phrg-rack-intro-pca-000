@@ -56,4 +56,8 @@ Let's deconstruct this URL a little bit though. The URL is `http://localhost:929
 
 Now it's your turn. Modify your app to introduce yourself by saying "Hello, my name is <YOUR NAME>". To exit the running web server and get back to your terminal press CTRL-C. **You will have to do this every time you change your code**.
 <p class='util--hide'>View <a href='https://learn.co/lessons/rack-intro'>Inspecting the Web with Rack</a> on Learn.co and start learning to code for free.</p>
+  
+  ## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rack-intro/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rack-intro/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+ 
 <p data-visibility='hidden'>PHRG Inspecting The Web With Rack</p>
